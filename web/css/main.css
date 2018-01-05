@@ -58,7 +58,9 @@ p {
     color: white;
     background-color: #222222 !important;
 }
-
+.bg-red {
+    background-color: #eaeaea ;
+}
 /*.text-faded {
     color: rgba(255, 255, 255, 0.7);
 }*/
@@ -73,6 +75,7 @@ section {
 }
 
 .section-heading {
+    padding-top: 70px;
     margin-top: 0;
 }
 
